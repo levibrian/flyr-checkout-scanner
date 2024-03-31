@@ -1,0 +1,15 @@
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/bin/Debug/net7.0/FLYR.Checkout.Host
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/bin/Debug/net7.0/FLYR.Checkout.Host.deps.json
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/bin/Debug/net7.0/FLYR.Checkout.Host.runtimeconfig.json
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/bin/Debug/net7.0/FLYR.Checkout.Host.dll
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/bin/Debug/net7.0/FLYR.Checkout.Host.pdb
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.csproj.AssemblyReference.cache
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.AssemblyInfoInputs.cache
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.AssemblyInfo.cs
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.csproj.CoreCompileInputs.cache
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.dll
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/refint/FLYR.Checkout.Host.dll
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.pdb
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/FLYR.Checkout.Host.genruntimeconfig.cache
+/Users/levibrian/Personal/repos/interviews/flyr-checkout-scanner/src/FLYR.Checkout/FLYR.Checkout.Host/obj/Debug/net7.0/ref/FLYR.Checkout.Host.dll
