@@ -1,3 +1,4 @@
 src/FLYR.Checkout/FLYR.Checkout.Host/obj
 src/FLYR.Checkout/.idea/.idea.FLYR.Checkout/.idea
 src/FLYR.Checkout/FLYR.Checkout.Host.UnitTests/obj
+src/FLYR.Checkout/FLYR.Checkout.Host/bin/Debug/net7.0

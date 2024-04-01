@@ -29,12 +29,25 @@ public class Program
             { coffee.Code, coffee }
         }, pricingRules);
 
+        Console.WriteLine($"Scanning: {greenTea.Code}");
         co.Scan(greenTea.Code);
+        
+        Console.WriteLine($"Scanning: {strawberries.Code}");
         co.Scan(strawberries.Code);
+        
+        Console.WriteLine($"Scanning: {greenTea.Code}");
         co.Scan(greenTea.Code);
+        
+        Console.WriteLine($"Scanning: {greenTea.Code}");
         co.Scan(greenTea.Code);
+        
+        Console.WriteLine($"Scanning: {coffee.Code}");
         co.Scan(coffee.Code);
+        
+        Console.WriteLine($"Scanning: {coffee.Code}");
         co.Scan(coffee.Code);
+        
+        Console.WriteLine($"Scanning: {coffee.Code}");
         co.Scan(coffee.Code);
 
         var price = co.Total();

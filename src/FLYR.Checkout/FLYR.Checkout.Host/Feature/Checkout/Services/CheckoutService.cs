@@ -31,10 +31,8 @@ public class CheckoutService
     public decimal Total()
     {
         var totalPrice = 0m;
-        foreach (var entry in cart)
+        foreach (var (productCode, quantity) in cart)
         {
-            var productCode = entry.Key;
-            var quantity = entry.Value;
             var product = products[productCode];
             var unitPrice = product.Price;
 
